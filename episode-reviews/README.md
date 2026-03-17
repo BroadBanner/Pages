@@ -24,4 +24,4 @@ _The America we strive for — it is one where we willingly remember the teachin
 
 ### _Palantalk Team_
 
-~ | [Nick Paro](https://substack.com/@nickparo) | [Shane Yirak](https://substack.com/@shaneyirak) | ~
+~ [Nick Paro](https://substack.com/@nickparo) | [Shane Yirak](https://substack.com/@shaneyirak) ~

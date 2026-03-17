@@ -1,4 +1,4 @@
-![Palantalk Banner](https://github.com/Banner-and-Backbone-Media/palantalk-pages/blob/c209ede5d98b4cdd8100e02a69ce6124c315f8f0/assets/PALANTALK_BANNER.png)
+![Palantalk Banner](/assets/PALANTALK_BANNER.png)
 
 #### _Palantalk - where we like "tech, no fascism"_ with [Nick Paro](https://substack.com/@nickparo) and [Shane Yirak](https://substack.com/@shaneyirak).
 

@@ -10,7 +10,7 @@
 
 ### Banner & Backbone Media
 
-- [Anti Fascist Book Club](/afbc/README.md)
+- [Anti Fascist Book Club](/anti-fascist-book-club/README.md)
 - [Palantalk](/palantalk/README.md)
 
 ### Sick of this Shit Publications

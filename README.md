@@ -1,4 +1,4 @@
-![Banner and Backbone Media Banner](../assets/BANNER_AND_BACKBONE_BANNER.png)
+![Banner and Backbone Media Banner](/assets/BANNER_AND_BACKBONE_BANNER.png)
 
 ##### Check out the new [Broad Banner](https://www.broadbanner.com/) network and affiliate calendar!
 

@@ -1,4 +1,16 @@
-# Intelligent Masculinity | With Pete Dominick \- 2026/03/12
+![Intelligent Masculinity Banner](../../assets/INTELLIGENT_MASCULINITY_BANNER.png)
+
+#### _Refusing to outsource accountability - and the discipline to live with the consequences of our actions and value_ with [Nick Paro](https://substack.com/@nickparo).
+
+##### Check out the new [Broad Banner](https://www.broadbanner.com/) network and affiliate calendar!
+
+##### Take a moment to subscribe to [Sick of this Shit Publications](https://sickofthis.substack.com/) on Substack and support the growth of this new media platform.
+
+---
+
+# Intelligent Masculinity | E20 \- Pete Dominick
+
+## Join in with Nick Paro and Pete Dominick for a better humaning conversation centered on acting on principles, providing consistent presence, and a bias for decency.
 
 "She got really upset with me. She was like, you're talking down to me in front of my boyfriend. And she was absolutely right. And I just gave her a full-throated apology — to her face, then again later in a text message. I made sure not to defend myself in any way. None of that. Apologize fully without defending yourself. Do it in such a way that it is definitely sincere and you will build every relationship. I think people view that as strength because it's being decent. And that is so much stronger in my mind than someone who doesn't do that or someone that doesn't have that as a guiding principle and practice in their life. To be conciliatory, to apologize, and to mean it is a hard thing to do. But if you do it, you're a better person, certainly a stronger man."
 
@@ -49,3 +61,16 @@ Service members can get un-biased information on legal vs illegal orders:
 Learn empathy forward, human centered, experiment based Leadership & Growth Courses for Higher Ed & Non-Profit Professionals:
 
 - [B. Cognition Labs](https://www.bcognitionlabs.com/)
+
+---
+
+### _Nick's Notes_
+
+_I’m Nick Paro, and I’m sick of the shit going on. So, I’m using poetry, podcasting, and lives to discuss the intersections of chronic illness and mental wellbeing, masculinity, veteran’s issues, politics, and so much more. I am only able to have these conversations, bring visibility to my communities, and fill the void through your support — this is a publication where engagement is encouraged, creativity is a cornerstone, and transparency is key — please consider becoming a paid subscriber today and grow the community!._
+
+##### Support as a paid subscriber however you can — to help get you started, here are a few discounted options for you
+
+- [Forever at 50% off](https://sickofthis.substack.com/50forever)
+- [Forever at 60% off](https://sickofthis.substack.com/60saver)
+
+##### For support, contact us at: info@sickofthisshitpublications.com

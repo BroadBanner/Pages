@@ -1,0 +1,80 @@
+<!-- bb:header:start -->
+![Intelligent Masculinity Banner](../../../assets/INTELLIGENT_MASCULINITY_BANNER.png)
+
+#### _Refusing to outsource accountability - and the discipline to live with the consequences of our actions and value_ with [Nick Paro](https://substack.com/@nickparo).
+
+##### Check out the new [Broad Banner](https://www.broadbanner.com/) network and affiliate calendar!
+
+##### Take a moment to subscribe to [Sick of this Shit Publications](https://sickofthis.substack.com/) on Substack and support the growth of this new media platform.
+
+---
+<!-- bb:header:end -->
+
+# Intelligent Masculinity | E21 \- Wajahat Ali
+
+## Join in with Nick Paro and Wajahat Ali for a better humaning conversation centered on a prophetic model of masculinity, self-reflection, and why knowing yourself is the foundation of masculine virtue.
+
+“I would add another aspect of intelligent masculinity — spending time knowing yourself. There's a great saying in Islam, and it's in most traditional traditions: know yourself and you'll know your creator. And this includes knowing the bad parts of yourself, the weak parts of yourself, the messy parts of yourself. That requires radical honesty with yourself. Where am I good? What am I bad at? What do I take pride in? Where can I get better? Maybe it's not the women's fault. Maybe it's not the immigrants' fault. Maybe there's something inside me — something broken, or maybe I'm projecting something, maybe there's an insecurity. That's an intelligent aspect of masculinity — which is why it's so frightening that Marc Andreessen, one of the broligarchs, is literally saying he's not into self-reflection.”
+
+\~ THE LEFT HOOK with Wajahat Ali \~
+
+### **Masculinity In Review**
+
+In this 21st interview of Intelligent Masculinity, Nick Paro brought THE LEFT HOOK with Wajahat Ali — writer, commentator, and host of The Left Hook — into the conversation. This conversation aired during Ramadan, with Waj fasting and still showing up fully present — which both acknowledged as a framing for the conversation. They covered what a prophetic model of masculinity actually looks like in practice, how men learn to externalize blame instead of looking inward, and what changes when men stop running from self-reflection and start treating it as a discipline. This is one of the most spiritually grounded conversations — at time mirroring the discussion with Qasim Rashid, Esq. — and one of the most honest about the gap between the masculinity men inherit and the one they actually choose.
+
+Waj opened by naming what’s visible across the current political and media landscape: men who perform strength because they lack it. He called them cosplay crusaders — broken men LARPing dominance. Pete Hegseth banned photographers over an unflattering photo. Marc Andreessen publicly announced he does not self-reflect. Kash Patel proposed having UFC fighters train federal “officers”. These aren’t displays of power; they’re displays of damage. Waj’s argument is that the through-line for most of these men is the same — unprocessed father wounds that never got named — and that understanding the source is the first step toward building something different.
+
+The alternative Waj offered came directly from his faith. As a practicing Muslim, he drew on the prophetic model of masculinity — the example of the Prophet Muhammad, who never struck his children, never raised his voice at his wife, and treated restraint and gentleness as expressions of strength rather than departures from it. There’s a narration of the Prophet cutting away the section of his shawl rather than disturb a sleeping cat. That image — a man powerful enough to let small things be — cuts directly against the domination model that currently passes for strength in American culture. Waj’s point is not religious in the narrow sense — it’s practical. Warmth, presence, and self-governance are what actually earn trust and love from the people closest to you.
+
+His father supplied the lived model. Waj described a man who immigrated from Pakistan, raised a family with his mother for 48 years, and never once asked where she was going, penny-pinched her independence, or treated her freedom as a threat to his identity. His father was secure — genuinely, quietly secure — and that security transmitted. Waj connected it directly to his own marriage: his wife Sarah has told him that his confidence, his refusal to perform jealousy, is part of why she chose him. Masculine insecurity compounds downward through relationships. Masculine security does the opposite.
+
+When Nick walked Waj through the series’ working definition — intelligent masculinity as the refusal to outsource accountability and the discipline to live with the consequences of your values and actions — Waj affirmed it and pushed it forward. He added a layer: radical honesty about who you actually are. The good parts, the weak parts, the messy parts. There’s a saying across Islamic and broader traditional traditions — know yourself and you’ll know your creator — and Waj named that self-knowledge as the root of everything else the series has been building toward. You cannot own what you will not look at. **Accountability without self-knowledge is performance.**
+
+Waj was candid about his own relationship with introspection: he has OCD inherited from his father, he ruminates more than is healthy, and he spent years confusing self-punishment with self-improvement. He named the distinction plainly — auditing yourself to grow is productive masculine practice; beating yourself down until you can’t get up is not. Over the last decade he’s shifted toward what he called “humble swagger”: taking honest stock of where he’s fallen short while also giving himself credit for what he’s actually built. Nick echoed it with the series’ own framing — self-reflection is not a license for self-destruction — **now you know, so you can grow**. That balance between clear-eyed assessment and genuine self-regard is what productive reflection actually looks like, and it’s a model worth passing down.
+
+In the end we see that THE LEFT HOOK with Wajahat Ali is a writer, public commentator, and practicing Muslim who has spent years speaking plainly about the failures of toxic masculinity while modeling something different. This conversation brought spiritual depth, biographical honesty, and real humor to the Intelligent Masculinity series — and his addition of self-knowledge as the foundation beneath accountability pushes the series’ central thesis meaningfully forward. Waj doesn’t just describe a better masculinity; he’s built one inside a working marriage and a public career, and he’s willing to show the construction.
+
+\~ Nick Paro
+
+---
+
+<!-- bb:footer:start -->
+#### **Actions You Can Take**
+
+- Check out the new: [Sick of this Shop\!](https://shop.sickofthisshitpublications.com/)
+- Check out the new network and affiliate calendar: [BroadBanner](https://www.broadbanner.com/)
+
+Submit questions, feedback, and artwork for **_Notes of the Week_** with Nick and Walter:
+
+- [Sick of this Shit Community Comment Form](https://forms.gle/4WSu8qGkSA7Wxbh98)
+
+Call your public servants on important issues:
+
+- [5calls.org](https://5calls.org/)
+
+Join the efforts to unmask law enforcement and de-flock the States:
+
+- [deflock.me](https://deflock.me/)
+
+Service members can get un-biased information on legal vs illegal orders:
+
+- [Orders Project](https://www.ordersproject.com/)
+- Reach out on Signal: @TheOrdersProject.76
+
+Learn empathy forward, human centered, experiment based Leadership & Growth Courses for Higher Ed & Non-Profit Professionals:
+
+- [B. Cognition Labs](https://www.bcognitionlabs.com/)
+
+---
+
+### _Nick's Notes_
+
+_I’m Nick Paro, and I’m sick of the shit going on. So, I’m using poetry, podcasting, and lives to discuss the intersections of chronic illness and mental wellbeing, masculinity, veteran’s issues, politics, and so much more. I am only able to have these conversations, bring visibility to my communities, and fill the void through your support — this is a publication where engagement is encouraged, creativity is a cornerstone, and transparency is key — please consider becoming a paid subscriber today and grow the community!._
+
+##### Support as a paid subscriber however you can — to help get you started, here are a few discounted options for you
+
+- [Forever at 50% off](https://sickofthis.substack.com/50forever)
+- [Forever at 60% off](https://sickofthis.substack.com/60saver)
+
+##### For support, contact us at: [info@sickofthisshitpublications.com](mailto:info@sickofthisshitpublications.com)
+<!-- bb:footer:end -->

@@ -1,0 +1,9 @@
+---
+---
+{% capture header_content %}{% include sick-of-this-shit-publications-header.md %}{% endcapture %}
+{{ header_content | markdownify }}
+
+{{ content }}
+
+{% capture footer_content %}{% include sick-of-this-shit-publications-footer.md %}{% endcapture %}
+{{ footer_content | markdownify }}

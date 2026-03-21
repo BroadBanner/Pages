@@ -6,9 +6,17 @@ markdown: kramdown
 
 defaults:
   - scope:
+      path: "sick-of-this-shit-publications"
+    values:
+      layout: "sick-of-this-shit-publications"
+  - scope:
       path: "sick-of-this-shit-publications/intelligent-masculinity"
     values:
       layout: "intelligent-masculinity"
+  - scope:
+      path: "banner-and-backbone-media"
+    values:
+      layout: "banner-and-backbone-media"
   - scope:
       path: "banner-and-backbone-media/anti-fascist-book-club"
     values:

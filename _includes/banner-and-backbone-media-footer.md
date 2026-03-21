@@ -1,0 +1,5 @@
+### _Banner & Backbone Authors' Notes_
+
+_The America we strive for — it is one where we willingly remember the teachings of our past, humbly learn from our failings, proudly celebrate our successes, and boldly lead the way into a future for **all people**._
+
+##### Support and subscribe to [Banner & Backbone](https://substack.com/@bannerandbackbone) now for only $5 a month or $50 annually!

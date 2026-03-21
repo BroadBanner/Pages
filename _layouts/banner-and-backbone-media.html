@@ -1,0 +1,9 @@
+---
+---
+{% capture header_content %}{% include banner-and-backbone-media-header.md %}{% endcapture %}
+{{ header_content | markdownify }}
+
+{{ content }}
+
+{% capture footer_content %}{% include banner-and-backbone-media-footer.md %}{% endcapture %}
+{{ footer_content | markdownify }}

@@ -1,6 +1,8 @@
 ---
 ---
 
+# Broad Banner Pages
+
 ## Brands
 
 - [Banner & Backbone Media](/banner-and-backbone-media/index.md)

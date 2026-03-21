@@ -1,6 +1,8 @@
 ---
 ---
 
+# Palantalk
+
 ## Episode Review Articles
 
 ### Season 1

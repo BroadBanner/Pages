@@ -1,3 +1,6 @@
+---
+---
+
 # Anti Fascist Book Club | To Catch A Fascist \- 2026-03-20
 
 ## Book 4, E4 \- Nick, Tara, and Steven trace how white supremacist ideology moved from the street to the statute — and what that means for resistance today.

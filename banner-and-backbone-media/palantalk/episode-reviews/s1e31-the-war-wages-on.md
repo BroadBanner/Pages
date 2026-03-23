@@ -1,3 +1,6 @@
+---
+---
+
 # **Palantalk | E31 \- The War Wages On**
 
 ## **Breaking down the three-week-old U.S. military campaign against Iran — the battlefield realities governments aren’t reporting and the geopolitical dominoes falling across the Middle East.**
@@ -17,3 +20,4 @@ Three weeks into the U.S. military campaign against Iran, Nick Paro and Shane Yi
 * **Contact your congressional representatives directly.** The most available lever for all citizens right now is direct, primary pressure — force candidates to take positions on the war and its human cost.  
 * **Use OSINT sources over mainstream briefings.** Flight tracking data, battlefield maps, and cross-referenced casualty reports are publicly available and more accurate than official statements.
 
+---

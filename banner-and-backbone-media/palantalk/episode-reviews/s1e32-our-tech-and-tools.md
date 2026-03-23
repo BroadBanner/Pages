@@ -1,3 +1,6 @@
+---
+---
+
 # Palantalk | E32 \- Our Tech and Tools
 
 ## Nick demos the Broadbanner Assistant live, Rachel unpacks sovereign AI stack-building and the Owl Problem, Sane breaks down Project Maven and Grok, and we all confront the AI kill chain.
@@ -16,3 +19,4 @@ Come check out the new [https://pages.broadbanner.com/](https://pages.broadbanne
 * Look up Project Maven and read Palantir’s publicly available contract documentation — understanding how AI is integrated into military targeting decisions is prerequisite knowledge for any informed civic engagement with AI policy.  
 * Build or download a morality/ethics instruction set for any AI agent you operate — Rachel’s Epistemic War Report prompt is available under Creative Commons and is a usable starting point.
 
+---

@@ -9,6 +9,6 @@
 
 - [E29 - No, More War](./s1e29-2026-03-03.md)
 - [E30 - The War For Tech Profits](./s1e30-2026-03-09.md)
-- [E31 \- The War Wages On**](./s1e31-the-war-wages-on.md)
+- [E31 \- The War Wages On](./s1e31-the-war-wages-on.md)
 
 ---

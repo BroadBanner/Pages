@@ -5,13 +5,13 @@
 
 ## Join in with Nick Paro and Matt Gordon for a better humaning conversation focused on emotional discipline, empathy, holding the line, and remaining accountable.
 
-“If an infantry fucking Marine can understand this shit, anybody can understand this shit. You just gotta be willing to open your fucking mind and accept the goddamn truth.”
-
-*\~ Matt Gordon \~*
+> “If an infantry fucking Marine can understand this shit, anybody can understand this shit. You just gotta be willing to open your fucking mind and accept the goddamn truth.”
+>
+> _\~ Matt Gordon \~_
 
 ### **Masculinity In Review**
 
-In this 23rd interview of Intelligent Masculinity, Nick Paro sits down with Matt Gordon — Marine Corps veteran, nine-year infantry guy, and the man behind the USMC Angry Veteran platform — for a conversation that covers war profiteering, rape culture, white male accountability, and what therapy actually looks like when you go in honest. Matt came off a live event in Minneapolis, where the two met at an Abolish ICE gathering honoring Alex Pretty and Renee Nicole Good, and the energy from that meeting carries straight through this episode. What unfolds is less of a formal interview and more of two white men refusing to let other white men off the hook — for the wars they sell, the violence they excuse, and the accountability they dodge. Listeners come away with a clear framework: the problem isn’t masculinity itself, it’s what men do with power when no one’s watching and nothing’s forcing them to grow.
+In this 23rd interview of Intelligent Masculinity, [Nick Paro](https://substack.com/@nickparo/) sits down with [Matt Gordon](https://substack.com/@usmcangryveteran) — Marine Corps veteran, nine-year infantry guy, and the man behind the USMC Angry Veteran platform — for a conversation that covers war profiteering, rape culture, white male accountability, and what therapy actually looks like when you go in honest. Matt came off a live event in Minneapolis, where the two met at an Abolish ICE gathering honoring Alex Pretty and Renee Nicole Good, and the energy from that meeting carries straight through this episode. What unfolds is less of a formal interview and more of two white men refusing to let other white men off the hook — for the wars they sell, the violence they excuse, and the accountability they dodge. Listeners come away with a clear framework: the problem isn’t masculinity itself, it’s what men do with power when no one’s watching and nothing’s forcing them to grow.
 
 The playbook hasn’t changed — and veterans know it. Matt names the pattern without flinching. The U.S. runs one play — build a justification, bomb a country, follow the money — and he walked through what that looks like from inside the institution that executes it. His read on the current conflict in the Middle East: the same lie structure as Iraq, the same billionaire beneficiaries, and a Secretary of Defense who belongs on a movie set rather than running a military. His critique of Pete Hegseth isn’t partisan commentary — it’s a veteran drawing a direct line between grandstanding leadership and Americans getting killed for ego and profit. When Matt says the Department of Defense has become the Department of Wannabes, he’s not being funny. He’s giving a structural diagnosis.
 

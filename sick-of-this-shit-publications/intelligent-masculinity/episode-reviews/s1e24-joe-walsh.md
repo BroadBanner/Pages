@@ -1,3 +1,6 @@
+---
+---
+
 # Intelligent Masculinity | E24 \- Joe Walsh
 
 ## Join in with Nick Paro and Joe Walsh for a better humaning conversation centered on growth, learning to listen to understand, and the power of an apology.
@@ -20,3 +23,5 @@ Joe’s most pointed critique isn’t aimed at the right — it’s aimed at Dem
 In the end, we see Joe Walsh — a former Republican Congressman, Tea Party architect, and Trump voter who has spent the last eight years doing the opposite of what the culture rewarded him for: apologizing publicly, listening deliberately, and building bridges to people he once dismissed. This episode isn't a redemption story — Joe resisted that framing — it's a working document of what masculine accountability looks like when it's actually practiced instead of performed. He brings the insider knowledge of someone who helped build the machine and the credibility of someone who walked away from it at personal cost. In a series built around the refusal to outsource accountability, Joe models what it means to own your consequences — not once, but as a sustained, daily choice — and expands Intelligent Masculinity's argument that the work of being a better man never stops.
 
 \~ [Nick Paro](https://substack.com/@nickparo)
+
+---

@@ -30,5 +30,6 @@
 - [E21 \- Wajahat Ali](./s1e21-wajahat-ali.md)
 - [E22 \- Ken Harbaugh](./s1e22-ken-harbaugh.md)
 - [E23 \- Matt Gordon](./s1e23-matt-gordon.md)
+- [E24 \- Joe Walsh](./s1e24-joe-walsh.md)
 
 ---

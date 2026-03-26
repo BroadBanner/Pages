@@ -29,5 +29,6 @@
 - [E20 \- Pete Dominick](./s1e20-pete-dominick.md)
 - [E21 \- Wajahat Ali](./s1e21-wajahat-ali.md)
 - [E22 \- Ken Harbaugh](./s1e22-ken-harbaugh.md)
+- [E23 \- Matt Gordon](./s1e23-matt-gordon.md)
 
 ---

@@ -26,3 +26,5 @@ Waj was candid about his own relationship with introspection: he has OCD inherit
 In the end we see that THE LEFT HOOK with Wajahat Ali is a writer, public commentator, and practicing Muslim who has spent years speaking plainly about the failures of toxic masculinity while modeling something different. This conversation brought spiritual depth, biographical honesty, and real humor to the Intelligent Masculinity series — and his addition of self-knowledge as the foundation beneath accountability pushes the series’ central thesis meaningfully forward. Waj doesn’t just describe a better masculinity; he’s built one inside a working marriage and a public career, and he’s willing to show the construction.
 
 \~ Nick Paro
+
+---

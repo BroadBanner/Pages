@@ -1,0 +1,28 @@
+---
+---
+
+# Intelligent Masculinity | With Matt Gordon
+
+## Join in with Nick Paro and Matt Gordon for a better humaning conversation focused on emotional discipline, empathy, holding the line, and remaining accountable.
+
+> “If an infantry fucking Marine can understand this shit, anybody can understand this shit. You just gotta be willing to open your fucking mind and accept the goddamn truth.”
+>
+> _\~ Matt Gordon \~_
+
+### **Masculinity In Review**
+
+In this 23rd interview of Intelligent Masculinity, [Nick Paro](https://substack.com/@nickparo/) sits down with [Matt Gordon](https://substack.com/@usmcangryveteran) — Marine Corps veteran, nine-year infantry guy, and the man behind the USMC Angry Veteran platform — for a conversation that covers war profiteering, rape culture, white male accountability, and what therapy actually looks like when you go in honest. Matt came off a live event in Minneapolis, where the two met at an Abolish ICE gathering honoring Alex Pretty and Renee Nicole Good, and the energy from that meeting carries straight through this episode. What unfolds is less of a formal interview and more of two white men refusing to let other white men off the hook — for the wars they sell, the violence they excuse, and the accountability they dodge. Listeners come away with a clear framework: the problem isn’t masculinity itself, it’s what men do with power when no one’s watching and nothing’s forcing them to grow.
+
+The playbook hasn’t changed — and veterans know it. Matt names the pattern without flinching. The U.S. runs one play — build a justification, bomb a country, follow the money — and he walked through what that looks like from inside the institution that executes it. His read on the current conflict in the Middle East: the same lie structure as Iraq, the same billionaire beneficiaries, and a Secretary of Defense who belongs on a movie set rather than running a military. His critique of Pete Hegseth isn’t partisan commentary — it’s a veteran drawing a direct line between grandstanding leadership and Americans getting killed for ego and profit. When Matt says the Department of Defense has become the Department of Wannabes, he’s not being funny. He’s giving a structural diagnosis.
+
+Rape culture doesn’t fix itself — fathers have to fix it. The conversation moves into one of its most direct stretches when Matt breaks down judicial outcomes for white men who sexually assault women and the message those outcomes send to everyone watching. The cases aren’t abstractions — they’re documented, named, and placed next to the consequences a Black man would face for the same crime. Matt’s argument is clean: the problem is not that women need better strategies for avoiding assault. The problem is that men are not being taught, held, or expected to not assault. His standard in his own house — anything but yes means no — isn’t a policy position, it’s a parenting commitment. And he says plainly that fathers who aren’t making that commitment are setting their children up to become predators. He said what he said.
+
+White men have to be the ones who say something — out loud, in the room. Matt and Nick spend time on a tactic that doesn’t require a platform or a policy position: make it uncomfortable. When someone says something sexist, racist, or homophobic in your presence, you don’t have to argue. You just stop laughing. You let the silence sit. Matt describes this as one of his favorite things to do — staring down a man who said something shitty until the discomfort forces a reckoning — and he’s not joking about its effectiveness. The deeper point is that 70 percent of white men voted for Trump in 2024, and that number isn’t a coincidence. It reflects a group that has never been expected to do otherwise. Matt’s argument is that white men are the ones who created the void that Tate and Rogan and Fuentes filled, and white men are the only group with the specific social leverage to reclaim it.
+
+Therapy isn’t a destination — it’s an ongoing practice, and it takes honesty. Matt has been in therapy for eight years with the same therapist. He’s 42 and still unpacking things. His point isn’t that therapy solves you — it’s that therapy is the practice of not letting new damage pile up unexamined. He went through five or six therapists before finding one he could actually talk to, and he’s direct that not connecting with a therapist isn’t failure — it’s information. The instruction is simple: keep going until you find someone who has no skin in the game of your life and can help you see yourself clearly. And when you get there, be honest. Not for anyone else. For you. The version of yourself that comes out the other side isn’t a different person — it’s the same person who decided to stop running.
+
+By the end we see Matt Gordon — a nine-year Marine Corps veteran and the creator behind USMC Angry Veteran — a platform built on taking ideas forged in difficult spaces and translating them into language that anyone willing to listen can use. This episode is an hour of two white men refusing to perform the kind of masculinity that keeps other people small, and instead doing the harder thing: naming exactly where men, white men specifically, have dropped the ball and what picking it back up actually requires. Matt describes himself as an angry, empathetic asshole shaped by Mattis's discipline, Mr. Rogers' patience, and the strong women he deliberately surrounds himself with — and that combination produces something rare on this series: a veteran who came out of one of the hardest institutions in the country and decided accountability, not armor, was the more powerful thing to carry forward.
+
+\~ Nick Paro
+
+---

@@ -1,3 +1,6 @@
+---
+---
+
 # Palantalk | E33 \- Bomb First and Ask No Questions
 
 ## Nick and Shane break down the strategic vacuum driving U.S. military action against Iran — from the Pentagon purge to the Kharg Island trap.
@@ -26,3 +29,4 @@ Nick and Shane then analyze Iran’s documented military strategy: a disciplined
 
 * [https://upload.wikimedia.org/wikipedia/commons/2/23/Map\_of\_North\_America\_with\_the\_Western\_Interior\_Seaway\_during\_the\_Campanian\_%28Upper\_Cretaceous%29.png](https://upload.wikimedia.org/wikipedia/commons/2/23/Map_of_North_America_with_the_Western_Interior_Seaway_during_the_Campanian_%28Upper_Cretaceous%29.png)
 
+---

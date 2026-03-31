@@ -11,5 +11,6 @@
 - [E30 - The War For Tech Profits](./s1e30-2026-03-09.md)
 - [E31 \- The War Wages On](./s1e31-the-war-wages-on.md)
 - [E32 \- Our Tech and Tools](./s1e32-our-tech-and-tools.md)
+- [E33 \- Bomb First and Ask No Questions](./s1e33-bomb-first-and-ask-no-questions.md)
 
 ---

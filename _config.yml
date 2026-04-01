@@ -35,3 +35,11 @@ defaults:
       path: "firebrand-project"
     values:
       layout: "firebrand-project"
+  - scope:
+      path: "this-woman-votes"
+    values:
+      layout: "this-woman-votes"
+  - scope:
+      path: "this-woman-votes/epistemic-warfare"
+    values:
+      layout: "this-woman-votes--epistemic-warfare"

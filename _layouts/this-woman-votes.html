@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+{% capture header_content %}{% include this-woman-votes-header.md %}{% endcapture %}
+{{ header_content | markdownify }}
+
+{{ content }}
+
+{% capture footer_content %}{% include this-woman-votes-footer.md %}{% endcapture %}
+{{ footer_content | markdownify }}
+

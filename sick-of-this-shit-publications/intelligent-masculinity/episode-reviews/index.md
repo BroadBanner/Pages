@@ -32,5 +32,6 @@
 - [E23 \- Matt Gordon](./s1e23-matt-gordon.md)
 - [E24 \- Joe Walsh](./s1e24-joe-walsh.md)
 - [E25 \- Forrest Page](./s1e25-forrest-page.md)
+- [E26 \- Angry Male Vet](./s1e26-angry-male-vet.md)
 
 ---

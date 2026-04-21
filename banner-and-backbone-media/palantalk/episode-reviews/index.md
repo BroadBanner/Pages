@@ -13,5 +13,6 @@
 - [E32 \- Our Tech and Tools](./s1e32-our-tech-and-tools.md)
 - [E33 \- Bomb First and Ask No Questions](./s1e33-bomb-first-and-ask-no-questions.md)
 - [E34 \- Buying the Infrastructure of a Nation](./s1e34-buying-the-infrastructure-of-a-nation.md)
+- [E36 \- The Blockade](./s1e36-the-blockade.md)
 
 ---

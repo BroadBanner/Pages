@@ -10,5 +10,6 @@
 - [E29 \- Writing With Autism](./s1e29-writing-with-autism.md)
 - [E30 \- Functioning With Compounding Conditions](./s1e30-functioning-with-compounding-conditions.md)
 - [E31 \- Mother's Day Monday](./s1e31-mothers-day-monday.md)
+- [E32 \- Get Out The Guilt](./s1e32-get-out-the-guilt.md)
 
 ---

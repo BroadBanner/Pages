@@ -10,5 +10,6 @@
 - [Courage Candidate Brittany Jones for Governor of Oregon](./courage-candidate-brittany-jones-for-governor-of-oregon.md) - 2026-04-29
 - [Courage Candidate - Erik Terwey for OK02](./courage-candidate-erik-terwey-for-ok02.md) — 2026-05-08
 - [The Democratic Dilemma](./the-democratic-dilemma.md) — 2026-05-08
+- [Courage for Democracy - Joel Lava for CA-CD30](./courage-for-democracy-joel-lava-ca-cd30.md) — 2026-05-20
 
 ---

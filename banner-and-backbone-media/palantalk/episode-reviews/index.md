@@ -14,5 +14,7 @@
 - [E33 \- Bomb First and Ask No Questions](./s1e33-bomb-first-and-ask-no-questions.md)
 - [E34 \- Buying the Infrastructure of a Nation](./s1e34-buying-the-infrastructure-of-a-nation.md)
 - [E36 \- The Blockade](./s1e36-the-blockade.md)
+- [E37 \- Nepotism and Cronyism](./s1e37-nepotism-and-cronyism.md)
+- [E39 \- The United States of Surveillance](./s1e39-the-united-states-of-surveillance.md)
 
 ---

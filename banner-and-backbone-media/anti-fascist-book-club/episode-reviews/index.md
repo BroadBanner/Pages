@@ -23,4 +23,8 @@
 - [E6 \- 2026-04-03](./book4-e6-to-catch-a-fascist-2026-04-03.md)
 - [E7 \- 2026-04-10](./book4-e7-to-catch-a-fascist-2026-04-10.md)
 
+#### Book 5 - **Surviving Autocracy**, by Masha Gessen
+
+- [E1 \- 2026-05-15](./book5-e1-surviving-autocracy-2026-05-15.md)
+
 ---

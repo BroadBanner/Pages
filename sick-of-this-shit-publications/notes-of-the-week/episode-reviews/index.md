@@ -11,5 +11,6 @@
 - [E30 \- What is Conscientious Emigration?](./s1e30-what-is-conscientious-emigration.md)
 - [E31 \- Religious Patriarchy](./s1e31-religious-patriarchy.md)
 - [E32 \- A Candidate Carousel](./s1e32-a-candidate-carousel.md)
+- [E33 \- Candidate Carousel #2](./s1e33-candidate-carousel-2.md)
 
 ---

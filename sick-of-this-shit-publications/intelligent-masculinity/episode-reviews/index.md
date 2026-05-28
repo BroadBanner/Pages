@@ -40,5 +40,6 @@
 - [E32 \- Christopher Armitage](./s1e32-christopher-armitage.md)
 - [E33 \- Ellie Leonard](./s1e33-ellie-leonard.md)
 - [E34 \- Ann Kramer](./s1e34-ann-kramer.md)
+- [E35 \- Jonathan Buchwalter](./s1e35-jonathan-buchwalter.md)
 
 ---

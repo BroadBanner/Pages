@@ -12,5 +12,6 @@
 - [E14 \- Courage For Democracy](./s1e14-courage-for-democracy.md)
 - [E15 \- How Did We Get Here?](./s1e15-how-did-we-get-here.md)
 - [E16 \- Replace, Reclaim, Rebuild](./s1e16-replace-reclaim-rebuild.md)
+- [E17 \- Confronting Burnout](./s1e17-confronting-burnout.md)
 
 ---

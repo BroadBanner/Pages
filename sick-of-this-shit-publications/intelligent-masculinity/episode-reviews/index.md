@@ -41,5 +41,6 @@
 - [E33 \- Ellie Leonard](./s1e33-ellie-leonard.md)
 - [E34 \- Ann Kramer](./s1e34-ann-kramer.md)
 - [E35 \- Jonathan Buchwalter](./s1e35-jonathan-buchwalter.md)
+- [E36 \- Jarrod Zisser](./s1e36-jarrod-zisser.md)
 
 ---

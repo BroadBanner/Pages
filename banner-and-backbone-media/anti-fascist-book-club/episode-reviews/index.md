@@ -26,5 +26,6 @@
 #### Book 5 - **Surviving Autocracy**, by Masha Gessen
 
 - [E1 \- 2026-05-15](./book5-e1-surviving-autocracy-2026-05-15.md)
+- [E2 \- 2026-05-22](./book5-e2-surviving-autocracy-2026-05-22.md)
 
 ---

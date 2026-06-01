@@ -1,0 +1,34 @@
+---
+---
+
+# Diogenes Club | E17 - Confronting Burnout
+
+## A Walter-less Diogenes Club traces burnout from one man's divorce to a deliberately engineered economy, and lands on the same answer: build your coping tools before the squeeze arrives.
+
+> "You can't practice using a tool when you need the tool. You have to practice before it, so that it's rote, so that it's memorized, so that your body responds to it."
+>
+> _\~ Nick Paro \~_
+
+### Diogenes In Review
+
+Walter Rhein took the day off — which is the rare opening for a Diogenes Club episode that doubles as the thesis statement. With Walter resting, Nick Paro, Dr. Eric Lullove, and a returning Evan Fields spend an hour and fifteen minutes arguing that burnout is the operating system of this political moment, not an unfortunate side effect. The conversation moves across three registers — Evan's recent divorce, Eric's medical and economic forecasting, and Nick's call to build personal infrastructure for resistance — and at each level the diagnosis is the same. Exhaustion is being manufactured upstream. The defense has to be built before the wave hits, not after.
+
+Evan opens the show by naming his own version of the problem out loud. After months of attempting reconciliation, he describes choosing himself: "When you get burnt out of something, you have to, I guess, choose yourself sometimes, and look out for your own priorities." That admission — followed by his almost-disbelieving line that he "almost deserves to be happy" — sets the personal stakes that the rest of the hour scales outward. Eric, who had originally texted Nick about Evan's spiral months earlier, frames the return not as quitting but as completing the loop: trying, learning, and then walking when the math doesn't work. The show's older instinct — that masculinity work requires permission to choose joy — gets restated here in plain language, without ceremony, by a man who clearly needed someone to say it back to him.
+
+The middle of the episode is Eric's territory, and it is the clearest articulation the panel has yet offered of what they think is actually happening to the country. He walks through the chain step by step: USAID cuts kneecapped the farming sector's purchasing surplus, immigration raids stripped the labor force that picks the crops, and a Gulf war footing has cut off the source supply of fertilizer through the sulfuric-acid-to-phosphoric-acid pipeline. The result, he warns, will hit grocery shelves through the summer and fall. Nick interrupts to refuse the word "incompetent." "Trump is not dumb. Stephen Miller is not stupid. Pete Hegseth is not dumb. They're not dumb. They are purposely incompetent." This is the episode's most important reframe, and the panel insists on it: calling the dismantling stupid is itself a form of pre-emptive surrender, because it waters down the severity by the time the message reaches anyone who isn't already paying attention. Eric carries that argument into a Texas postscript on Ken Paxton, John Cornyn, and 4% primary turnout, ending where the burnout theme always lands — accountability does not pause for exhaustion, and the people most likely to show up are the ones who have already built the habit.
+
+From there the show pivots into what it actually means to "confront" burnout, and the panel resists the easy answer. The title, Eric points out, is misdirection: this isn't really about burnout, it's about managing stress so the burnout doesn't get a foothold. The tactics are concrete and unglamorous. Nick has stopped scheduling two Intelligent Masculinity recordings a week. He builds thousand-piece puzzles with his kids, sets a summer routine that pairs thirty minutes of reading with thirty of viola or fifteen of handwriting, plays a stack of instruments most listeners had no idea he owned (baritone sax, soprano sax, didgeridoo, Navajo flute, harmonica), and treats music as an active de-stressor rather than a hobby in retrospect. Eric explains why this isn't fluff — left-brain and right-brain activities both have to be on the schedule, which is why crosswords, jigsaws, and even coloring books have shown up in stress-management literature for years. Evan's contribution is the one the other two keep gesturing toward: leave the house, see people, accept that the pre-COVID muscle for human contact is itself a tool that atrophies if you don't use it.
+
+The episode closes on its most literary turn. Eric reads from the middle of the Declaration of Independence — pausing to update "men" to "people" — and the words land exactly the way he hoped they would: as a description of the present, not a relic from 250 years ago. The reading does double duty. It gives Nick the runway to argue that the burnout cure is, ultimately, the same as the political project: build the thing before you need it, then keep going. "We have to continue the squeeze until it's over, until we've gotten all the juice that we can out of it." His parallel point lands in Nick's central tool metaphor — that coping skills, like resistance itself, have to be practiced into rote memory before the moment they're required. Eric pulls one more thread: the oath veterans took was for life, "against all enemies, foreign and domestic," and that oath is not an oath of convenience. Both men frame their continued public work — Nick at Sick of This Shit Publications, Evan launching policy writing for Banner and Backbone Media, Eric at Blue Amp Media — not as obligation but as honor, and as the visible, non-violent patriotism the moment requires of those who can show their faces.
+
+What this episode adds to the Diogenes Club season is a working theory rather than a fresh outrage. Earlier episodes named the dismantling and tracked individual fights; this one says quietly that the burnout you feel is the deliverable, that the food-supply squeeze is its enforcement mechanism, and that the only sustainable answer is to make joy, hope, and community contact into rehearsed reflexes before the pressure ratchets up again. The hour is unusually personal for the show — Evan's divorce admission and Nick's parenting routine sit alongside Eric's macro economics — and that's the point. The Club is arguing that the personal infrastructure and the civic infrastructure are the same infrastructure, and that you build them in the lower-pressure moments, like this one, so the body remembers what to do when the next one comes.
+
+### Sources & References
+
+- Declaration of Independence (Jefferson, 1776) — read aloud by Eric in the closing arc
+- Matt Robeson, "Where the economy is going" — Blue Amp Media (referenced by Eric on the summer food-supply forecast)
+- [News from Underground](https://newsfromunderground.substack.com/) — Evan Fields' Substack
+- [Blue Amp Media](https://www.blueampmedia.com/) — Eric Lullove's publication
+- GovX — first-responder discount platform referenced for affordable stress relief
+
+---

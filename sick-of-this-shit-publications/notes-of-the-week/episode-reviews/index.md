@@ -12,5 +12,6 @@
 - [E31 \- Religious Patriarchy](./s1e31-religious-patriarchy.md)
 - [E32 \- A Candidate Carousel](./s1e32-a-candidate-carousel.md)
 - [E33 \- Candidate Carousel #2](./s1e33-candidate-carousel-2.md)
+- [E34 \- Pushing Forward](./s1e34-pushing-forward.md)
 
 ---

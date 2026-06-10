@@ -12,5 +12,6 @@
 - [The Democratic Dilemma](./the-democratic-dilemma.md) — 2026-05-08
 - [Courage for Democracy - Joel Lava for CA-CD30](./courage-for-democracy-joel-lava-ca-cd30.md) — 2026-05-20
 - [Courage for Democracy - Salaam Bhatti for VA-01](./courage-for-democracy-salaam-bhatti-for-va01.md) — 2026-05-22
+- [Courage For New Hampshire CD-02 with Paige Beauchemin](./courage-for-new-hampshire-cd02-paige-beauchemin.md) — 2026-06-10
 
 ---

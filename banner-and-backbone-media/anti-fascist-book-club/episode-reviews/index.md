@@ -27,6 +27,6 @@
 
 - [E1 \- 2026-05-15](./book5-e1-surviving-autocracy-2026-05-15.md)
 - [E2 \- 2026-05-22](./book5-e2-surviving-autocracy-2026-05-22.md)
-- [E3 \- 2026-05-29](./book5-e5-surviving-autocracy-2026-05-29.md)
+- [E3 \- 2026-05-29](./book5-e3-surviving-autocracy-2026-05-29.md)
 
 ---

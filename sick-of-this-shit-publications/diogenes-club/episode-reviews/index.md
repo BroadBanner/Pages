@@ -13,5 +13,6 @@
 - [E15 \- How Did We Get Here?](./s1e15-how-did-we-get-here.md)
 - [E16 \- Replace, Reclaim, Rebuild](./s1e16-replace-reclaim-rebuild.md)
 - [E17 \- Confronting Burnout](./s1e17-confronting-burnout.md)
+- [E18 \- Wait, It's the World Cup?](./s1e18-wait-its-the-world-cup.md)
 
 ---

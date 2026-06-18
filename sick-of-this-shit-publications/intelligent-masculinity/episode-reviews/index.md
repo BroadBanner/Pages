@@ -42,5 +42,6 @@
 - [E34 \- Ann Kramer](./s1e34-ann-kramer.md)
 - [E35 \- Jonathan Buchwalter](./s1e35-jonathan-buchwalter.md)
 - [E36 \- Jarrod Zisser](./s1e36-jarrod-zisser.md)
+- [E37 \- Lev Parnas](./s1e37-lev-parnas.md)
 
 ---

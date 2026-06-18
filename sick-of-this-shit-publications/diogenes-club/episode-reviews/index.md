@@ -14,5 +14,6 @@
 - [E16 \- Replace, Reclaim, Rebuild](./s1e16-replace-reclaim-rebuild.md)
 - [E17 \- Confronting Burnout](./s1e17-confronting-burnout.md)
 - [E18 \- Wait, It's the World Cup?](./s1e18-wait-its-the-world-cup.md)
+- [E19 \- Smart Choices In Tough Situations](./s1e19-smart-choices-in-tough-situations.md)
 
 ---

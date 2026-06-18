@@ -18,5 +18,6 @@
 - [E39 \- The United States of Surveillance](./s1e39-the-united-states-of-surveillance.md)
 - [E40 \- What's Behind the AI Tech Boom](./s1e40-whats-behind-the-ai-tech-boom.md)
 - [E41 \- Move Fast and Break the World](./s1e41-move-fast-and-break-the-world.md)
+- [E42 \- Robber Barons Robbing Us Blind](./s1e42-robber-barons-robbing-us-blind.md)
 
 ---

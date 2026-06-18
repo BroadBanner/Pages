@@ -16,5 +16,6 @@
 - [E36 \- The Blockade](./s1e36-the-blockade.md)
 - [E37 \- Nepotism and Cronyism](./s1e37-nepotism-and-cronyism.md)
 - [E39 \- The United States of Surveillance](./s1e39-the-united-states-of-surveillance.md)
+- [E40 \- What's Behind the AI Tech Boom](./s1e40-whats-behind-the-ai-tech-boom.md)
 
 ---

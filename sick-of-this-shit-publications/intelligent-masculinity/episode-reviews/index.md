@@ -43,5 +43,6 @@
 - [E35 \- Jonathan Buchwalter](./s1e35-jonathan-buchwalter.md)
 - [E36 \- Jarrod Zisser](./s1e36-jarrod-zisser.md)
 - [E37 \- Lev Parnas](./s1e37-lev-parnas.md)
+- [E38 \- Dean Blundell](./s1e38-dean-blundell.md)
 
 ---
